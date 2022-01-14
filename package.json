@@ -1,0 +1,23 @@
+{
+  "name": "dcon",
+  "version": "1.0.0",
+  "description": "rcon to discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xandertron/DCon.git"
+  },
+  "author": "Xandertron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xandertron/DCon/issues"
+  },
+  "homepage": "https://github.com/Xandertron/DCon#readme",
+  "dependencies": {
+    "discord.js": "^13.5.1",
+    "rcon": "^1.1.0"
+  }
+}
